@@ -21,3 +21,7 @@ p{
     margin-right: 25%;
     line-height: 200%;
 }
+
+p:hover{
+    font-size: 150%
+}
